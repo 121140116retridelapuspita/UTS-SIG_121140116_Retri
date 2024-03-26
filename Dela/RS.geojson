@@ -1,0 +1,263 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RSUD Kota Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37812375640914,
+          -7.825723101143382
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Bethesda Lempuyangwangi"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37322309059152,
+          -7.7967743107857785
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Bethesda Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37826372883512,
+          -7.7834378149953665
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Dr. Soetarto"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37685899999508,
+          -7.785971425181998
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Dr. Yap Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37489572883987,
+          -7.78059768497026
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Islam Hidayatullah"
+      },
+      "geometry": {
+        "coordinates": [
+          110.38771177679007,
+          -7.815111753657362
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Ludira Husada Tama"
+      },
+      "geometry": {
+        "coordinates": [
+          110.35287079629904,
+          -7.792465906550831
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Happy Land"
+      },
+      "geometry": {
+        "coordinates": [
+          110.39207291042459,
+          -7.794005900517661
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Pratama Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37385653134027,
+          -7.815700258043918
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Siloam Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.39045518650892,
+          -7.784351944953102
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Soedirman"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3975034544801,
+          -7.800647667988457
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RSIA Bhakti Ibu"
+      },
+      "geometry": {
+        "coordinates": [
+          110.38161789814882,
+          -7.81484105620838
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RSIA Muhammadiyah Kotagede"
+      },
+      "geometry": {
+        "coordinates": [
+          110.40075245767662,
+          -7.822988636289722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RSIA Permata Bunda"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3997439470865,
+          -7.820682139931449
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Rumah Sakit Ibu dan Anak Fajar"
+      },
+      "geometry": {
+        "coordinates": [
+          110.34992017126672,
+          -7.808581296312951
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RSKIA 45"
+      },
+      "geometry": {
+        "coordinates": [
+          110.34609239599939,
+          -7.807498288409803
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS PKU Muhammadiyah"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36236549917749,
+          -7.800703659050683
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RSKIA Rachmi"
+      },
+      "geometry": {
+        "coordinates": [
+          110.35648349410019,
+          -7.803656652849185
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Panti Rapih"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37746063425755,
+          -7.777077516598439
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"nama": "Klinik Adhiwarga PKBI DIY"},
+      "geometry": {
+        "coordinates": [
+          110.35706653037062,
+          -7.785149526727949
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
